@@ -276,7 +276,7 @@ function moXacNhan(thongBao, hanhDong) {
   $('#xn-thong-bao').textContent = thongBao;
   hanhDongXacNhan = hanhDong;
   moModal('modal-xac-nhan');
-}
+}``
 $('#xn-huy').onclick = () => dongModal('modal-xac-nhan');
 $('#xn-dong-y').onclick = () => {
   dongModal('modal-xac-nhan');
