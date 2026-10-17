@@ -30,7 +30,7 @@ Trang **Quản trị đối tác địa phương** (Local Partners Management)
 https://canva.link/un73adr0v7ku5dr
 
 ## 7. Link Video
-https://youtu.be/i7dJNbRtMg4
+https://youtube.com/playlist?list=PLHxmAJIURQDw&si=n_VkOfHr5Bn1mKB5
 
 ## 8. Link GitHub
 https://github.com/nguyenvanhaidang2k7-code/CSE122_GK_admin_partners_NguyenVanHaiDang_2551060596
